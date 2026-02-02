@@ -71,6 +71,4 @@ Interactive filters allow users to explore insights dynamically.
 This project demonstrates how *Tableau dashboards* can transform complex EV data into *clear insights and strategic recommendations*.  
 The analysis supports informed decisions related to infrastructure development, policy planning, and market expansion in the electric vehicle sector.
 
----
 
-## 📁 Project Structure
