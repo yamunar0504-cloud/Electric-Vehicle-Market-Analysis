@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicle Market Analysis (Tableau)
+# ⚡ Electric Vehicle Market Analysis 
 
 ## 📌 Project Overview
 This project analyzes **global electric vehicle (EV) adoption trends** using **Tableau**.  
